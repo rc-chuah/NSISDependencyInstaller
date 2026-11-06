@@ -103,4 +103,4 @@ Thanks To The Community For Sharing Many Fixes And Improvements. To Contribute P
 
 ## License
 
-[The GNU Lesser General Public License (LGPL) 3.0](https://github.com/rc-chuah/NSISDependencyInstaller/blob/main/LICENSE.md)
+[The Mozilla Public License (MPL) 2.0](https://github.com/rc-chuah/NSISDependencyInstaller/blob/main/LICENSE.md)
